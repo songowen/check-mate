@@ -1,79 +1,111 @@
-# 목차
+# 📄 체크메이트: 계약서 작성 및 분석 플랫폼
 
-1. [프로젝트 소개](#프로젝트-소개)
-2. [주요 화면 및 기능 소개](#주요-화면-및-기능-소개)
-3. [개발 환경](#개발-환경)
-4. [팀원 소개](#팀원-소개)
+![checkmate_overview](https://github.com/user-attachments/assets/your-image-id)
 
-<br/>
+---
 
-# 🥸 프로젝트 소개
+## 📚 목차 (Table of Contents)
 
-#### 1. 개요
+- [🧭 프로젝트 소개](#-프로젝트-소개)
+- [🔄 사용자 플로우](#-사용자-플로우)
+- [🎯 주요 기능 요약](#-주요-기능-요약)
+- [👥 주요 타겟층](#-주요-타겟층)
+- [📘 ERD](#-erd)
+- [🏗️ 아키텍처](#-아키텍처)
+- [🖼️ 와이어프레임](#-와이어프레임)
+- [🛠 사용된 기술 스택](#-사용된-기술-스택)
 
-- 서비스 명 : CHECKMATE(체크메이트)
-- 한 줄 소개 : SSAFY 12기 2학기 자율 프로젝트
-- 기간 : 2025.04.14 ~ 2025.05.25 (42일)
+---
 
-#### 2. 기획 배경
+## 🧭 프로젝트 소개
 
-- 목적 : 계약서에 대한 지식이 많지 않은 사회 초년생들이 불공정한 계약을 하지 않도록 돕기 위한 서비스
+> GPT 기반 계약서 자동 생성 및 리스크 분석 플랫폼
 
-<br/>
+### 🗓 프로젝트 진행기간
+- **2025년 3월 ~ 진행 중**
 
-# 🎯 주요 화면 및 기능 소개
+### 💡 기획의도
+- 계약서 작성은 법률 지식이 필요한 복잡한 과정입니다.
+- 일반 사용자는 조항 해석과 리스크 파악에 어려움을 겪습니다.
+- **체크메이트는** 사용자가 계약서를 쉽게 작성하고, 분석 결과를 이해할 수 있도록 도와주는 플랫폼입니다.
 
-<br/>
+#### ✅ 체크메이트는 다음을 가능하게 합니다
+- ✍️ **간편한 계약서 작성**
+- 🧠 **AI 기반 조항 해석 및 리스크 분석**
+- 🖊 **전자서명 연동**
+- 🔔 **실시간 알림 제공**
 
-# 👻 개발 환경
+---
 
-### <code>[ 기술 스택 ]</code>
+## 🔄 사용자 플로우
 
-### Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
+![user_flow](https://github.com/user-attachments/assets/your-user-flow-img)
 
+1. **계약서 템플릿 선택**
+2. **내용 입력 및 작성**
+3. **AI 분석 결과 확인**
+4. **상대방 초대 및 전자서명**
+5. **분석 결과 알림 수신**
 
-### Backend
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
-<img src="https://img.shields.io/badge/spring Seucyrity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"> <br/>
+---
 
-### Database
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+## 🎯 주요 기능 요약
 
+- 📄 **계약서 템플릿 자동 생성**
+- 🧾 **문서 분석 및 리스크 요약**
+- 🖋 **전자서명 기능 연동**
+- 🔁 **실시간 알림 (WebSocket 기반)**
+- 📁 **계약서 이력 관리**
 
-### Infra/Devops
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+---
 
-### 협업 툴
-<img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
-<img src="https://img.shields.io/badge/Giitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
-  <br/>
+## 👥 주요 타겟층
 
-### <code>[프로젝트 구조]</code>
+- 법률 전문가가 없는 스타트업/소상공인
+- 계약 리스크를 사전에 확인하고 싶은 일반 사용자
+- 반복적으로 계약서를 작성/관리해야 하는 조직
 
-### Frontend ()
+---
 
-```
+## 📘 ERD
 
-```
+![erd](https://github.com/user-attachments/assets/your-erd-img)
 
-### Backend (Spring Boot)
+---
 
-```
+## 🏗️ 아키텍처
 
-```
+![architecture](https://github.com/user-attachments/assets/your-architecture-img)
 
-<br/>
+---
 
-<br/>
+## 🖼️ 와이어프레임
 
-# 🥳 팀원 소개
-| 이영재(팀장) | 손서현 | 신승아 | 송창현 | 김성찬 | 고태연 |
-| --- | --- | --- | --- | --- | --- |
-| BE | BE | FE | FE | BE | FE |
-<br/>
+[![와이어프레임](https://github.com/user-attachments/assets/your-wireframe-img)](https://www.figma.com/file/Checkmate...)
+
+---
+
+## 🛠 사용된 기술 스택
+
+### 🖥️ Frontend
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)](https://redux.js.org/)
+[![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white)](https://tanstack.com/query/)
+
+### 🛠 Backend
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
+[![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)](https://docs.celeryq.dev/)
+[![PyPDF2](https://img.shields.io/badge/PyPDF2-3776AB?style=flat&logo=python&logoColor=white)](https://pypdf2.readthedocs.io/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.com/)
+
+### ⚙ DevOps & Infra
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![WebSocket](https://img.shields.io/badge/WebSocket-008080?style=flat)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+
+---
