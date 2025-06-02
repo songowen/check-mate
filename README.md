@@ -35,7 +35,7 @@
 ![image](docs/asset/메인페이지.gif)
 - 체크메이트 서비스를 설명하는 내용으로 구성
 - 페이지의 최하단에는 네이버 뉴스 API를 이용하여 계약 관련된 뉴스를 제공
-- 네이버 뉴스를 Redis에 캐싱하여 API 호출↓
+- 네이버 뉴스를 Redis에 캐싱하여 API 호출
 
 #### 계약서 분석
 ![분석페이지](https://github.com/user-attachments/assets/623d5ec5-5492-42e9-9bb4-85857129c6c2)
@@ -147,8 +147,28 @@
 <br/>
 
 
-# 🥳 팀원 소개
-| 이영재(팀장) | 김성찬 | 손서현 | 고태연 | 송창현 | 신승아 |
-| --- | --- | --- | --- | --- | --- |
-| BE | BE | BE | FE | FE | FE |
+## 👥 팀 구성
+
+<table>
+  <tbody>
+    <tr align="center">
+      <td><img src="https://avatars.githubusercontent.com/u/29938746?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
+      <td><img src="https://avatars.githubusercontent.com/u/125804214?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
+      <td><img src="https://avatars.githubusercontent.com/u/175274988?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
+      <td><img src="https://avatars.githubusercontent.com/u/175382620?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
+      <td><img src="https://avatars.githubusercontent.com/u/145769307?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
+      <td><img src="https://avatars.githubusercontent.com/u/105963431?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
+    </tr>
+    <tr align="center">
+      <td width="200"><a href="http://github.com/yj901010">팀장 : 이영재<br/>INFJ</a></td>
+      <td width="200"><a href="http://github.com/hjkim2040">팀원 : 김성찬<br/>ISFP</a></td>
+      <td width="200"><a href="https://github.com/sonseohy">팀원 : 손서현<br/>ISTP</a></td>
+      <td width="200"><a href="https://github.com/tytomko">팀원 : 고태연<br/>ENTJ</a></td>
+      <td width="200"><a href="https://github.com/songowen">팀원 : 송창현<br/>ISTP</a></td>
+      <td width="200"><a href="https://github.com/newww-a">팀원 : 신승아<br/>ENFP</a></td>
+    </tr>
+    
+  </tbody>
+</table>
+
 <br/>
