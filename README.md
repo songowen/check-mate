@@ -13,8 +13,7 @@
    - [🖥️ 기술 스택](#기술-스택)
    - [📊 ERD](#erd)
    - [📦 아키텍처](#아키텍처)
-   - [🖼️ 화면 설계서](#화면-설계서)
-   - [📂 프로젝트 구조](#프로젝트-구조)
+   - [🖼️ 와이어프레임](#와이어프레임)
 4. [👥 팀원 소개](#팀원-소개)
 
 ---
@@ -134,6 +133,15 @@
   <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </div>
+
+### 📊 ERD
+![image](https://github.com/user-attachments/assets/b8f9cc39-b694-4c36-8ec2-de06ac026c9f)
+
+### 📦 아키텍처
+![아키텍처](docs/asset/architecture.png)
+
+### 🖼️ 와이어프레임(클릭시 이동)
+[![image](https://github.com/user-attachments/assets/80667f0d-3b1e-4015-8f8f-47e0cf32d250)](https://www.figma.com/design/CHnjSMdCjRKn3YB7XsvbOO/%EC%9E%90%EC%9C%A8_C103?node-id=0-1&t=VY2dEct9sjRjxOga-1)
 
 
 <br/>
