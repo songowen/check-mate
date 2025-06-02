@@ -157,7 +157,7 @@
       <td><img src="https://avatars.githubusercontent.com/u/175274988?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
       <td><img src="https://avatars.githubusercontent.com/u/175382620?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
       <td><img src="https://avatars.githubusercontent.com/u/145769307?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
-      <td><img src="https://avatars.githubusercontent.com/u/105963431?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
+      <td><img src="https://avatars.githubusercontent.com/u/175383118?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
     </tr>
     <tr align="center">
       <td width="200"><a href="http://github.com/yj901010">팀장 : 이영재<br/>INFJ</a></td>
@@ -165,7 +165,7 @@
       <td width="200"><a href="https://github.com/sonseohy">팀원 : 손서현<br/>ISTP</a></td>
       <td width="200"><a href="https://github.com/tytomko">팀원 : 고태연<br/>ENTJ</a></td>
       <td width="200"><a href="https://github.com/songowen">팀원 : 송창현<br/>ISTP</a></td>
-      <td width="200"><a href="https://github.com/newww-a">팀원 : 신승아<br/>ENFP</a></td>
+      <td width="200"><a href="https://github.com/newww-a">팀원 : 신승아<br/>ISTP</a></td>
     </tr>
     
   </tbody>
