@@ -138,7 +138,7 @@
 ![image](https://github.com/user-attachments/assets/b8f9cc39-b694-4c36-8ec2-de06ac026c9f)
 
 ### 📦 아키텍처
-![아키텍처](docs/asset/architecture.png)
+![image](https://github.com/user-attachments/assets/9ccc789a-1986-4459-aec7-d4fdaf42e1b0)
 
 ### 🖼️ 와이어프레임(클릭시 이동)
 [![image](https://github.com/user-attachments/assets/80667f0d-3b1e-4015-8f8f-47e0cf32d250)](https://www.figma.com/design/CHnjSMdCjRKn3YB7XsvbOO/%EC%9E%90%EC%9C%A8_C103?node-id=0-1&t=VY2dEct9sjRjxOga-1)
